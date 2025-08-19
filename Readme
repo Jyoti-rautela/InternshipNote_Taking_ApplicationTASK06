@@ -1,0 +1,43 @@
+## Project: 6 Notes App
+
+A full-stack Notes Application built with the MERN stack. This app lets users create, edit, organize, and search notes.
+
+## Features
+
+1) Rich Text Notes (bold, italic, lists, etc.) using Quill.js
+
+2) Categories / Tags to organize notes
+
+3) Pin or Archive Notes for quick access and decluttering
+
+4) Search Notes by title or content
+
+5) Create, Edit, and Delete Notes easily
+
+6) Responsive Design with TailwindCSS
+
+## Tech Stack
+
+Frontend: React.js, TailwindCSS, Quill.js
+
+Backend: Node.js, Express.js
+
+Database: MongoDB (via Mongoose)
+
+## Setup Instructions
+
+# Frontend
+
+cd frontend
+
+npm install
+
+npm run dev
+
+# Backend
+
+cd backend
+
+npm install
+
+npm run
